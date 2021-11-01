@@ -1,4 +1,13 @@
 # pcstoon
 
-..testing
-#Testing is done right!
+# react
+
+[ ] work on front end design
+
+# strapi
+
+[ ] todo
+
+# adminPanel
+
+[ ] todo
